@@ -58,6 +58,16 @@ CheckMarks Project/
 │       └── web.xml
 ```
 
+## Tech Stack
+
+- **Java**: Programming language used for developing the application.
+- **JSP (JavaServer Pages)**: For creating dynamic web pages.
+- **Servlets**: For handling request and response processing.
+- **Apache Tomcat**: Web server and servlet container.
+- **MySQL**: Database management system for storing student data.
+- **JSTL (JavaServer Pages Standard Tag Library)**: For using common tags in JSP.
+- **Maven**: Dependency management and build automation tool (optional).
+
 ## Prerequisites
 
 - Java Development Kit (JDK) 8 or higher
@@ -118,6 +128,4 @@ CheckMarks Project/
 
 ## Contact
 
-For any questions or suggestions, please contact tyash6843@gmail.com`.
-```
-
+For any questions or suggestions, please contact `tyash6843@gmail.com`.
