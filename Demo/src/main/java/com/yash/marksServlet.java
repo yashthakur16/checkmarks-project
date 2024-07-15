@@ -35,7 +35,7 @@ public class marksServlet extends HttpServlet {
 		
 		String url="jdbc:mysql://localhost:3306/db1";
 		String uname="root";
-		String pass="yash1616";
+		String pass="";
 		
 		String query="select * from student_info where rollno="+roll+";";
 		
