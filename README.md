@@ -116,7 +116,15 @@ CheckMarks Project/
 
 - **Login Page** (`login.jsp`): Enter your credentials to log in.
 - **Home Page** (`home.jsp`): View the home page after logging in.
-- **Show Student Page** (`showStudent.jsp`): Display student details and their marks.
+- **Show Student Page** (`showStudent.jsp`): Enter the roll number to display student details and their marks.
+
+### Show Student Marks by Roll Number
+
+To view a student's marks using their roll number:
+
+1. Navigate to the `showStudent.jsp` page.
+2. Enter the roll number of the student in the provided input field.
+3. Submit the form to display the student's details and marks.
 
 ## Contributing
 
