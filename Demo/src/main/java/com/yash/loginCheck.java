@@ -9,7 +9,7 @@ public class loginCheck {
 	
 		String url="jdbc:mysql://localhost:3306/loginSystem";
 		String uname="root";
-		String pass="yash1616";
+		String pass="";
 		
 		String query="select * from logindata where username='"+username+"' and password='"+password+"';";
 		
